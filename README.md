@@ -22,6 +22,6 @@ find assets and choose as per your os.
 e.g. If you are using Visual Studio for code,use that terminal (for local installation
 
 
-   ** $ pip install selenium **
+    $ pip install selenium 
   
 ## 3. Execute the script and see the magic
